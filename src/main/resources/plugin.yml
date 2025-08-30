@@ -1,0 +1,5 @@
+name: InvisibleRegionPlugin
+version: 1.0.0
+main: com.example.invisibleregion.InvisibleRegionPlugin
+api-version: 1.19
+depend: [WorldGuard, WorldGuardEvents]
